@@ -1,0 +1,18 @@
+---
+title: "hw5"
+author: "yh3429"
+date: "2022-11-10"
+output: github_document
+---
+
+```{r}
+? prop.test
+```
+
+
+
+```{r}
+prop.test(50,100) %>% 
+  broom::tidy()
+```
+

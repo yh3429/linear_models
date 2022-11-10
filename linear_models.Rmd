@@ -1,0 +1,14 @@
+---
+title: "linear_models"
+author: "yh3429"
+date: "2022-11-10"
+output: github_document
+---
+
+```{r}
+library(tidyverse)
+library(p8105.datasets)
+
+set.seed(1)
+```
+
